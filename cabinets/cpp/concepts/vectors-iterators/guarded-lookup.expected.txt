@@ -1,0 +1,3 @@
+Hydra before: 40
+Hydra after: 35
+Target not found: Dragon

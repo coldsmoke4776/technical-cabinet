@@ -28,6 +28,7 @@ Fresh builds go into the ignored `build/` directory. Historical Apple-Silicon bi
 | [Classes](concepts/classes/notes.md) | Encapsulation, access, constructors, initialization, destruction, RAII | In progress | Verified |
 | [File input](concepts/file-input/notes.md) | Command-line paths, file streams, incremental line processing, exact substring counting | In progress | Verified |
 | [Maps](concepts/maps/notes.md) | Key-value state, associative counting, scope, ordered iteration, evidence boundaries | In progress | Verified |
+| [Vectors and iterators](concepts/vectors-iterators/notes.md) | Vector ownership, identity-based lookup, iterator guards, invalidation, ASan evidence | In progress | Verified |
 
 “Verified” means the current example compiles under `make verify`. It does not mean every sentence in the accompanying learning notes has received a publication-level technical review.
 
